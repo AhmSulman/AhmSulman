@@ -15,7 +15,7 @@
 
 ### About
 
-- 🎛️ Building **MCP integrations** that let LLMs control real software, currently Ableton Live
+- 🎛️ Building **MCP integrations** that let LLMs control real software, like [AbletonMCP](https://github.com/AhmSulman/AbletonMCP) for Ableton Live
 - 🧠 Local-LLM pipelines and **RAG systems** with Ollama, llama.cpp, FAISS, ONNX
 - 🎸 **Audio DSP** and real-time audio on mobile, with two Android apps shipped
 - 🛠️ Ex-SAP consultant: SQL Server → SAP HANA migration, C# automation tooling
@@ -31,6 +31,7 @@ C++ was my first language, I studied compilers for fun, and I had 27+ repos befo
 | Project | What it is | Stack |
 |---|---|---|
 | **[ParseDat Diary](https://github.com/AhmSulman/ParseDat_Diary)** | Fully local RAG: chat with your PDF library and get page-cited answers, running on a 6 GB laptop GPU | FAISS · llama.cpp · FastAPI · KivyMD |
+| **[AbletonMCP](https://github.com/AhmSulman/AbletonMCP)** | MCP server that lets Claude drive Ableton Live: tracks, clips, MIDI, drum generation, hardware controllers | Python · MCP · TCP · Ableton API |
 | **[Octave Live Wire](https://github.com/AhmSulman/Octave_Live_Wire)** · [live](https://octave-live-wire.vercel.app) | Browser music toolkit: audio analysis, piano, fretboard, backing-track studio, Python music pad | Django · librosa · Vercel |
 | **[NetWarden](https://github.com/AhmSulman/NetWarden)** | Windows network tuner, traffic monitor and hardening auditor in one app | C# · WPF (.NET 10) |
 | **[NetKit](https://github.com/AhmSulman/NetKit)** | Self-hosted network security and OSINT toolkit: scanning, packet capture, cert tools | Python · Flask · nmap · tshark |
