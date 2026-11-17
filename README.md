@@ -1,7 +1,7 @@
-<h1 align="center">Ahmed Salman (Maan)</h1>
+<h1 align="center">Ahmed Sulman (Maan)</h1>
 
 <p align="center">
-  <b>Backend & AI-integration developer</b>: I build the glue between models, music, and machines.
+  <b>Backend & AI-integration developer</b>: I build the glue between models- (music and machines) -> Two things that i love.
 </p>
 
 <p align="center">
