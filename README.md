@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://ahmed-salman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ahmed--salman.vercel.app-111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://octave-live-wire.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Octave_Live_Wire-000?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ahmed-salman-maan"><img src="https://img.shields.io/badge/LinkedIn-ahmed--salman--maan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@Ahm3dSulman"><img src="https://img.shields.io/badge/YouTube-@Ahm3dSulman-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
